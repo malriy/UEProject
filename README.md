@@ -7,10 +7,10 @@
   - Student ID: 1211304884
 
 ## Introduction
-**Two steps sideways, One step back** is a game that utilizes bugs in game include "death", to proceed through the levels.
+**Two steps sideways, One step back** is a game that utilizes collision bugs in game include "death", to proceed through the levels.
 
 ## Documentations of Your Game
-This game is a 2.5D platformer game where players navigate through puzzles and platforms to reach the end of each level. The game uses the concept of intentional "death" to solve puzzles and progress.
+This game is a 2.5D platformer game where players navigate through puzzles and platforms to reach the end of each level. The game uses the concept of intentional "death" to reach certain position and collision bugs to go behind the levels. Utilizing these "bugs" helps the player to solve puzzles and progress.
 
 ## Instructions
 - **Move Left/Right**: Press `A` to move left and `D` to move right.
@@ -18,7 +18,8 @@ This game is a 2.5D platformer game where players navigate through puzzles and p
 
 ### Objectives
 - Navigate through challenging platforms and puzzles.
-- Use intentional "death" mechanics or bugs to solve puzzles and progress.
+- Use intentional "death" mechanics to hit checkpoint or buttons to proceed.
+- Use collision bugs with the checkpoint to explore another layer of the levels.
 - Reach the end of each level to advance to the next.
 
 ## Screenshots
