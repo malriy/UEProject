@@ -19,7 +19,7 @@ This game is a 2.5D platformer game where players navigate through puzzles and p
 ### Objectives
 - Navigate through challenging platforms and puzzles.
 - Use intentional "death" mechanics to hit checkpoint or buttons to proceed.
-- Use collision bugs with the checkpoint to explore another layer of the levels.
+- Use collision bugs with checkpoints to explore another layer of the levels.
 - Reach the end of each level to advance to the next.
 
 ## Screenshots
